@@ -4,7 +4,10 @@
 [![Join on Discord](https://discordapp.com/api/guilds/304387206552879116/widget.png?style=shield)][Discord]
 [![Join on Gitter](https://badges.gitter.im/TranslucentTB/Lobby.svg)][Gitter]
 [![Total downloads](https://img.shields.io/github/downloads/TranslucentTB/TranslucentTB/total.svg)](https://github.com/TranslucentTB/TranslucentTB/releases)
-[![Build status](https://ci.appveyor.com/api/projects/status/9yym3vr6s5gc7vk3/branch/master?svg=true)](https://ci.appveyor.com/project/sylveon/translucenttb/branch/master)
+[![Build Status](https://dev.azure.com/sylve0n/TranslucentTB/_apis/build/status/TranslucentTB.TranslucentTB?branchName=develop)](https://dev.azure.com/sylve0n/TranslucentTB/_build/latest?definitionId=4&branchName=develop)
+[![CodeFactor](https://www.codefactor.io/repository/github/translucenttb/translucenttb/badge/develop)](https://www.codefactor.io/repository/github/translucenttb/translucenttb/overview/develop)
+> [**关于恶意软件的指控**, 我们有一个 issues 来解释我们的权限使用。](https://github.com/TranslucentTB/TranslucentTB/issues/350)
+
 
 轻量级（占用几 MB 内存且几乎不占用 CPU）的实用程序，可使 Windows 任务栏在 Windows 10 上半透明/透明。
 
@@ -36,7 +39,7 @@
 
 如果您喜欢经典下载，则可以 [通过 release 选项卡](https://github.com/TranslucentTB/TranslucentTB/releases) 进行下载。
 
-如果您想获得最新的前沿构建，可以在 [AppVeyor 页面](https://ci.appveyor.com/project/sylveon/translucenttb) 上进行获取（`Configuration: Release` > `Artifacts` > `TranslucentTB-setup.exe`）。 请注意，这些构建可能无法正常运行，或包含部分完成的功能。 使用风险自负。
+如果您想获得最新的前沿构建，可以在 [Azure Pipelines 页面](https://dev.azure.com/sylve0n/TranslucentTB/_build?definitionId=4) 上进行获取（`Configuration: Release` > `Artifacts` > `TranslucentTB-setup.exe`）。 请注意，这些构建可能无法正常运行，或包含部分完成的功能。 使用风险自负。
 
 ## 添加开机启动
 
@@ -191,5 +194,5 @@ TranslucentTB 还通过这些程序所不具备的功能（如 动态窗口、�
 
 该程序是 GPL v3 许可下的免费（就像 speech 一样）软件。请参见 [LICENSE.md](LICENSE.md) 文件查看更多信息。
 
-[Discord]: https://discord.gg/w95DGTK
+[Discord]: https://discord.gg/TranslucentTB
 [Gitter]: https://gitter.im/TranslucentTB/Lobby
