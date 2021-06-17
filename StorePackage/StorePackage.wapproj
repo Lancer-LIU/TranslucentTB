@@ -22,7 +22,7 @@
     <AppxAutoIncrementPackageRevision>False</AppxAutoIncrementPackageRevision>
     <AppxBundlePlatforms>x86</AppxBundlePlatforms>
     <AppxBundle>Never</AppxBundle>
-    <PackageCertificateThumbprint>2139F33948B132267697770D6F3F02E33AFA8E6B</PackageCertificateThumbprint>
+    <PackageCertificateThumbprint>BBF479F7A4E10A7F6DD1F4147D6A091A6B78C5A4</PackageCertificateThumbprint>
     <AppxPackageSigningEnabled>True</AppxPackageSigningEnabled>
     <GenerateAppInstallerFile>False</GenerateAppInstallerFile>
     <AppxPackageSigningTimestampDigestAlgorithm>SHA256</AppxPackageSigningTimestampDigestAlgorithm>
